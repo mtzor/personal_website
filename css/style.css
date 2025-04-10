@@ -1,0 +1,95 @@
+
+body{
+  text-align: center;
+}
+#languages{
+  background-color: aliceblue;
+}
+#me{
+  background-color: aliceblue;
+}
+#about-me{
+  background-color: aliceblue;
+}
+#a-cus{
+  color: #387195;   
+  padding: 0px 20px 0px 20px;
+  text-decoration:double;
+}
+.contact-message{
+  font-size: 1.5rem;
+  padding: 0px 100px;
+}
+#contact-me{
+  padding: 50px 0px;
+}
+a{
+  color:white;  
+  padding: 0px 20px 0px 20px;
+  text-decoration:double;
+}
+.footer-link{
+  color:white;  
+  padding: 0px 20px 0px 20px;
+  text-decoration:double;
+}
+.bottom-container{
+  background-color: #387195;  
+  padding: 50px 0px 20px;
+}
+.copyright{
+  padding: 0px;
+  color:white;  
+}
+.title-text{
+  font-size:  3rem;  
+  margin: 0px auto 0px auto;
+  font-family: "DM Mono", monospace;
+  color: #318cc5;
+}
+h2{
+  color:#387195;  
+  font-size: 2rem;
+  margin: 20px auto 20px auto;
+  font-family: "Roboto", sans-serif;
+}
+
+h3{
+  color:#387195;  
+  font-size: 1.5rem;
+  margin: 30px auto 20px auto;
+  font-family: "Roboto", sans-serif;
+}
+
+h4{
+  color:#387195;  
+  font-size: 1.25rem;
+  margin: 30px auto 20px auto;
+  font-family: "Roboto", sans-serif;
+}
+.feature-icon-small{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+}
+
+.profile-img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.skill-list{
+  list-style-type: none;
+}
+.interest-list{
+  list-style-type: none;
+}
+
+
+.work-experience{
+  background-color:aliceblue;
+}
+ .we-row{
+  display: flex;
+  justify-content: space-around;
+ }
