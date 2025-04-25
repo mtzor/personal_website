@@ -2,6 +2,9 @@
 body{
   text-align: center;
 }
+p{
+  text-align: left;
+}
 #languages{
   background-color: aliceblue;
 }
@@ -16,6 +19,7 @@ body{
   padding: 0px 20px 0px 20px;
   text-decoration:double;
 }
+
 .contact-message{
   font-size: 1.5rem;
   padding: 0px 100px;
@@ -64,7 +68,7 @@ h3{
 h4{
   color:#387195;  
   font-size: 1.25rem;
-  margin: 30px auto 20px auto;
+  margin: 30px auto 20px 0px;
   font-family: "Roboto", sans-serif;
 }
 .feature-icon-small{
